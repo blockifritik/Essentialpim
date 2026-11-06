@@ -206,3 +206,6 @@ This repository serves as the official landing page for EssentialPIM. The softwa
 - 💬 **[Community](https://softcosmo.com/about-us/)**
 ---
 **Get the most recent version of EssentialPIM today!**
+
+---
+**Last updated:** 2026-11-06 19:02:28 UTC
